@@ -1,0 +1,6 @@
+print(game.PlaceId)
+if game.PlaceId == 130188315740188 or game.PlaceId == 130188315740188 or game.PlaceId == 130188315740188 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Efe0626/Mahiru/main/BloxFruits"))()
+else
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SaltyHB/Poggers/refs/heads/main/Fisch"))()
+end
